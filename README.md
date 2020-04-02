@@ -1,3 +1,3 @@
 This is a temporary repository created specifically for stepik course
 
-This text is added only to create the second commit
+Lesson 3.6 step 9
